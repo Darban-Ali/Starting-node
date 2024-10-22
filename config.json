@@ -1,0 +1,11 @@
+{
+    "db":{
+        "database":"Backend1",
+        "username": "postgres",
+        "password": "darbanali",
+        "host": "localhost",
+        "dialect": "postgres",
+        "port": "5432"
+
+    }
+}
